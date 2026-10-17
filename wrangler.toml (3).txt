@@ -1,0 +1,13 @@
+name = "europify-frontend"
+main = "index.js"
+compatibility_date = "2025-01-01"
+
+[vars]
+API_BASE = "https://github.com/AmineSoukara/amazon-music.git"
+FIREBASE_API_KEY = "AIzaSyDiKeV3dQihnVX3BvG9CbvGPnomZAtan50"
+FIREBASE_AUTH_DOMAIN = "europify-d7c61.firebaseapp.com"
+FIREBASE_PROJECT_ID = "europify-d7c61"
+FIREBASE_STORAGE_BUCKET = "europify-d7c61.firebasestorage.app"
+FIREBASE_MESSAGING_SENDER_ID = "579040172233"
+FIREBASE_APP_ID = "1:579040172233:web:4b52e9e781c98b935a5518"
+FIREBASE_MEASUREMENT_ID = "G-4J98P5LVV7"
